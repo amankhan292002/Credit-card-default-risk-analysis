@@ -88,6 +88,11 @@ Credit-card-default-risk-analysis/
 ├── README.md
 └── .gitignore
 ```
+## 📂 Project Files
+
+- 📓 [Notebook](Credit_Card_Default_Risk_Analysis.ipynb) – Complete Python analysis, EDA, feature engineering, and hypothesis testing.
+- 📊 [Dataset](credit_card_data.csv) – Original credit card default dataset used for analysis.
+- 📑 [Business Requirements Document (BRD)](Credit_Card_Default_Risk_Analysis_BRD.pdf) – Project objectives, scope, methodology, and business requirements.
 
 ## 📄 Project Documentation
 
